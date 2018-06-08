@@ -46,6 +46,6 @@ bower.json
 
 # Ignore Byebug command history file.
 .byebug_history
-
+hola.py
 
 # End of https://www.gitignore.io/api/rails
