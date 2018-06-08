@@ -28,6 +28,7 @@ config/initializers/secret_token.rb
 
 ## Environment normalization:
 /.bundle
+
 /vendor/bundle
 
 # these should all be checked in to normalize the environment:
